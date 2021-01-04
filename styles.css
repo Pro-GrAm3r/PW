@@ -1,0 +1,39 @@
+body {
+  background-color: #d4e2d4;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 20%;
+}
+
+h1 {
+  color: #66BFBF;
+  display: inline-block;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.education {
+  width: 40%;
+  margin: 50px auto;
+}
+
+img {
+  position: relative;
+  float: left;
+}
+
+.bio {
+  width: 65%;
+  margin: 50px auto;
+}
+
+.intro {
+  text-align: center;
+}
